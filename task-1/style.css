@@ -1,0 +1,110 @@
+body{
+    
+   margin:200px 200px;
+    background-color:#ffffff;
+    letter-spacing: 1em:
+   
+    
+
+    
+
+    
+}
+.btn-1{
+    background-color:#c63928;
+    color:#ffffff;
+    border: transparent;
+    width: 150px;
+    height: 50px;
+    }
+.btn-1:hover{
+    background-color: #ec4d50;
+    cursor: pointer;
+
+}
+.btn-2{
+    background-color:#fdd835;
+    color:#2b61fa;
+    border:solid#2b62fb;
+    padding:10px 15px;
+    font-family: 'Gugi', cursive;
+
+
+}
+.btn-2:hover{
+    background-color:#2a61fb ;
+    cursor: pointer;
+    color: #fdd835;
+
+}
+.btn-3{
+    background-image: linear-gradient(to right, #5cd0d4 ,#a1d38a);
+    color:#ffffff;
+    border-radius:25px;
+    border:none; 
+    padding:12px 38px;
+    
+}
+.btn-3:hover{
+    cursor: pointer;
+
+}
+
+.btn-4{
+    color:#2d10a5;
+   padding:10px 15px;
+    border-radius:10px; 
+    border:solid#6b4eeb;
+
+
+
+}
+.btn-4:hover{
+    background-color: #6b4eeb;
+    cursor: pointer;
+    color: white;
+
+}
+.btn-5{
+    background-image: linear-gradient(to bottom,#f38e31,#fac633);
+    color:white;
+    border-radius: 5px;
+    border:none;
+    height:50px;
+    width:150px; 
+    
+
+}
+.btn-5:hover{
+   background-color:#b6671d;
+    cursor: pointer;
+    color: white;
+
+
+}
+.btn-6{
+    color:#37a1f3;
+    border-radius:50em; 
+    border:solid#37a1f3;
+    padding:0.8em 0.9em;
+    font-size:15px;
+}
+.btn-6:hover{
+    background-color:#37a1f3;
+    cursor: pointer;
+    color: white;
+
+}
+
+    button{
+        font-size: 1em;
+        font-family: 'Montserrat', sans-serif;
+        margin:0.5em;
+        
+    }
+
+
+    
+
+
+
